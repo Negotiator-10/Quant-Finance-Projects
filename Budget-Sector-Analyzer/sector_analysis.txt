@@ -1,0 +1,53 @@
+### Sector Allocation and Explanation
+The Indian Union Budget 2026-27 has been categorized into broad investment sectors. Below are the sectors, their total allocations, reasons for prioritization, and suggested stocks or indices that could benefit.
+
+1. **Infrastructure**
+   - Total Allocation: ₹1,433,791.73 crores (Ministry of Road Transport and Highways: ₹309,875.30, Ministry of Railways: ₹281,377.32, Ministry of Jal Shakti: ₹94,807.84, Ministry of Housing and Urban Affairs: ₹85,522.39, Ministry of New and Renewable Energy: ₹32,914.67, Ministry of Power: ₹29,996.85)
+   - Prioritization: Infrastructure development is crucial for economic growth, improving connectivity, and enhancing the quality of life. The government is focusing on building roads, railways, and urban infrastructure to support urbanization and industrial development.
+   - Suggested Stocks/Indices: Larsen & Toubro (L&T), IRB Infrastructure Developers, Nifty Infrastructure Index
+
+2. **Defence**
+   - Total Allocation: ₹784,678.28 crores
+   - Prioritization: The government is prioritizing defence to strengthen national security, enhance military capabilities, and promote indigenous defence manufacturing.
+   - Suggested Stocks/Indices: Hindustan Aeronautics Ltd (HAL), Bharat Electronics (BEL), Nifty India Defence Index
+
+3. **Agriculture and Allied Activities**
+   - Total Allocation: ₹379,049.95 crores (Ministry of Agriculture and Farmers Welfare: ₹140,528.78, Ministry of Consumer Affairs, Food and Public Distribution: ₹239,521.37)
+   - Prioritization: The government is focusing on agriculture to improve farmers' income, enhance productivity, and ensure food security. Investments in this sector aim to support the rural economy and promote agricultural exports.
+   - Suggested Stocks/Indices: UPL Ltd, Coromandel International, Nifty Agri Index
+
+4. **Education and Skill Development**
+   - Total Allocation: ₹143,289.48 crores (Ministry of Education: ₹139,289.48, Ministry of Skill Development and Entrepreneurship: ₹9,885.80)
+   - Prioritization: Education and skill development are crucial for human capital formation and employability. The government is prioritizing this sector to improve the quality of education, enhance vocational training, and promote entrepreneurship.
+   - Suggested Stocks/Indices: Navneet Education, Career Point, Nifty Education Index
+
+5. **Health and Family Welfare**
+   - Total Allocation: ₹106,530.42 crores
+   - Prioritization: The government is focusing on healthcare to improve the accessibility and affordability of medical services, enhance health infrastructure, and promote health insurance.
+   - Suggested Stocks/Indices: Apollo Hospitals, Fortis Healthcare, Nifty Healthcare Index
+
+6. **Rural Development**
+   - Total Allocation: ₹197,023.14 crores
+   - Prioritization: Rural development is essential for inclusive growth, poverty reduction, and improving the standard of living in rural areas. The government is investing in this sector to support rural infrastructure, agriculture, and social welfare programs.
+   - Suggested Stocks/Indices: Rural Electrification Corporation (REC), Power Finance Corporation (PFC), Nifty Rural Index
+
+7. **Communications and IT**
+   - Total Allocation: ₹102,267.02 crores (Ministry of Communications: ₹102,267.02, Ministry of Electronics and Information Technology: ₹21,632.96)
+   - Prioritization: The government is prioritizing the communications and IT sector to enhance digital connectivity, promote e-governance, and support the growth of the IT industry.
+   - Suggested Stocks/Indices: Bharti Airtel, Tata Consultancy Services (TCS), Nifty IT Index
+
+8. **Energy and Natural Resources**
+   - Total Allocation: ₹104,890.49 crores (Ministry of Petroleum and Natural Gas: ₹30,443.22, Ministry of Coal: ₹3,635.32, Ministry of Mines: ₹3,806.45, Ministry of New and Renewable Energy: ₹32,914.67, Ministry of Power: ₹29,996.85)
+   - Prioritization: The government is focusing on the energy sector to enhance energy security, promote renewable energy, and reduce dependence on fossil fuels.
+   - Suggested Stocks/Indices: Reliance Industries, NTPC Ltd, Nifty Energy Index
+
+### Ranking of Top 8 Sectors by Total Allocation
+
+1. Infrastructure - ₹1,433,791.73 crores
+2. Defence - ₹784,678.28 crores
+3. Agriculture and Allied Activities - ₹379,049.95 crores
+4. Rural Development - ₹197,023.14 crores
+5. Education and Skill Development - ₹143,289.48 crores
+6. Health and Family Welfare - ₹106,530.42 crores
+7. Communications and IT - ₹102,267.02 crores (combined allocation for Ministry of Communications and Ministry of Electronics and Information Technology)
+8. Energy and Natural Resources - ₹104,890.49 crores
